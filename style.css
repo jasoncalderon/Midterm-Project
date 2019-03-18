@@ -1,0 +1,24 @@
+body{
+    background-color: red;
+}
+body,div, section,p{
+    margin:0;
+}
+.vertical-center{
+    text-align: center;
+}
+#instafeed a{
+    display: block;
+    width:25%;
+    margin:auto;
+}
+#instafeed a img{
+    width:100%;
+    margin:10px;
+}
+p{
+    margin:0px;
+    color:red;
+    font-size: 22px;
+    background-color:black;
+}
